@@ -1,0 +1,4 @@
+I would rate my code readiness 2
+I have successfully been able to link all the cheque numbers with an order as well have to ability for the customer to add up new cheques that could be used for the payments of remaining orders
+Exceptions have been handled through out the code that return false or null in the event of any exceptions.
+The code also accurately displays the uninked cheques and unpaid orders.
